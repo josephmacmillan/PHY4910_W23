@@ -1,4 +1,4 @@
 # PHY 4910U Techniques of Modern Astrophysics
-Winter 2023
+## Winter 2023
 
-Class code.
+Repository for code generated in class, in assignments, and in projects.
